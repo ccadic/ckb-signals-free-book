@@ -4,6 +4,7 @@ CKB: The Art of Profiting from Volatility
 Smart Order Strategies
 Using SIGNALS, OCO, Stop-Loss, and Trailing Stops for CKB
 
+<img src="bookcover.jpg">
 
 Description:
 
